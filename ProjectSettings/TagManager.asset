@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - car
+  - water
+  - log
+  - endFrog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 148841475
+    locked: 0
+  - name: water
+    uniqueID: 227875695
+    locked: 0
+  - name: things
+    uniqueID: 3516777769
+    locked: 0
+  - name: Log
+    uniqueID: 3445586945
+    locked: 0
+  - name: Player
+    uniqueID: 733500685
+    locked: 0
